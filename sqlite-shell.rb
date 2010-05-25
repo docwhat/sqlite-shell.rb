@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 ## sqlite-shell.rb
-## Copyright (C) Christian Höltje -- http://docwhat.org
+## Copyright (C) 2010 Christian Höltje -- http://docwhat.org
 ## URL: http://github.com/docwhat/sqlite-shell.rb
 ##
 ## This program is free software: you can redistribute it and/or modify
