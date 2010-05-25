@@ -1,0 +1,21 @@
+=sqlite-shell.rb=
+
+This is a replacement (possibly enhanced) version of the sqlite shell.  sqlite shell is the sqlite client for talking to a sqlite database.
+
+=TODO=
+
+ * Work without readline support (windows). Needed for batched input as well.
+ * Command line support.
+
+=DONE=
+
+ * Queries
+ * .schema
+ * .tables
+ * .help
+ * ~/.sqlite-history support
+
+=License=
+
+This is licensed via the GPL v3.  See the file COPYING for more information.
+Copyright (C) 2010 Christian Höltje -- http://docwhat.org
